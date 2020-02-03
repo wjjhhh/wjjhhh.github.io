@@ -1,6 +1,6 @@
 {
   "config": {
-    "title": "Jantd",
+    "title": "J Antd",
     "description": "My awesome app using docz",
     "menu": [],
     "version": "0.0.2",
@@ -23,47 +23,13 @@
   },
   "entries": [
     {
-      "key": "index.md",
-      "value": {
-        "id": "d680e8a854a7cbad6d490c445cba2eba",
-        "filepath": "index.md",
-        "link": "",
-        "slug": "index",
-        "route": "/index",
-        "name": "Index",
-        "menu": "",
-        "headings": [
-          {
-            "slug": "welcome-to-github-pages",
-            "depth": 2,
-            "value": "Welcome to GitHub Pages"
-          },
-          {
-            "slug": "markdown",
-            "depth": 3,
-            "value": "Markdown"
-          },
-          {
-            "slug": "jekyll-themes",
-            "depth": 3,
-            "value": "Jekyll Themes"
-          },
-          {
-            "slug": "support-or-contact",
-            "depth": 3,
-            "value": "Support or Contact"
-          }
-        ]
-      }
-    },
-    {
       "key": "src/index.mdx",
       "value": {
         "name": "Button",
         "route": "/",
         "id": "6576455a124f9aaefd860597f03a8fe4",
         "filepath": "src/index.mdx",
-        "link": "",
+        "link": "https://github.com/wjjhhh/jantd/edit/master/src/index.mdx",
         "slug": "src-index",
         "menu": "",
         "headings": [
