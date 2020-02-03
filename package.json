@@ -1,0 +1,39 @@
+{
+    "name": "j-antd",
+    "version": "0.0.2",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/wjjhhh/jantd"
+    },
+    "main": "lib/index.js",
+    "module": "es/index.js",
+    "typings": "lib/index.d.ts",
+    "files": [
+        "dist",
+        "lib",
+        "es"
+    ],
+    "scripts": {
+      "start": "father doc dev",
+      "doc:build": "father doc build",
+      "doc:deploy": "father doc deploy",
+      "lib:build": "father build"
+    },
+    "peerDependencies": {
+      "react": ">=16.8.0",
+      "react-dom": ">=16.8.0",
+      "antd": ">=3.21.0"
+    },
+    "devDependencies": {
+      "babel-plugin-import": "^1.13.0",
+      "father": "^2.29.2",
+      "fs-extra": "^8.1.0",
+      "klaw-sync": "^6.0.0"
+    },
+    "dependencies": {
+      "antd": "^3.21.0",
+      "classnames": "^2.2.6",
+      "lodash": "^4.17.15"
+    }
+  }
+  

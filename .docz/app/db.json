@@ -1,0 +1,56 @@
+{
+  "config": {
+    "title": "Jantd",
+    "description": "My awesome app using docz",
+    "menu": [],
+    "version": "0.0.2",
+    "repository": false,
+    "native": false,
+    "codeSandbox": true,
+    "themeConfig": {},
+    "separator": "-",
+    "typescript": false,
+    "theme": "/Users/user/Desktop/jantd/node_modules/docz-theme-umi/es/index.js",
+    "plugins": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  "entries": [
+    {
+      "key": "src/index.mdx",
+      "value": {
+        "name": "Button",
+        "route": "/",
+        "id": "6576455a124f9aaefd860597f03a8fe4",
+        "filepath": "src/index.mdx",
+        "link": "",
+        "slug": "src-index",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "button",
+            "depth": 1,
+            "value": "Button"
+          },
+          {
+            "slug": "normal-button",
+            "depth": 2,
+            "value": "Normal Button"
+          },
+          {
+            "slug": "red-button",
+            "depth": 2,
+            "value": "Red Button"
+          }
+        ]
+      }
+    }
+  ],
+  "props": []
+}
